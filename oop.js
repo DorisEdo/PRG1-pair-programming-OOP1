@@ -146,11 +146,6 @@ class Cohort {
 
 }
 
-  
-
-
-
-
   const aqil = new Person("Aqil Hussain", "01/01/2000", "Manchester");
   const steve = new AdaStaff("Steve Rich", "01/01/1998", "Lincoln", "Lecturer", "Manchester");
   const bob = new Person("Bob Philip","04/04/1974", "Huddersfield");
